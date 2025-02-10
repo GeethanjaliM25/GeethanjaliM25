@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm.gif)](https://geethanjali.io)
+[![MasterHead](https://latamlist.com/wp-content/uploads/2019/11/Header_gif_assembly-1-1.gif)](https://geethanjali.io)
 <h1 align="center">Hi 👋, I'm Geethanjali M</h1>
 <h3 align="center">"Showcasing Innovation and Code in Action"</h3>
 
