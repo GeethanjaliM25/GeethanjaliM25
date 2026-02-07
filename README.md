@@ -5,10 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geethanjalim25&label=Profile%20views&color=0e75b6&style=flat" alt="geethanjalim25" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geethanjalim25" alt="geethanjalim25" /></a> </p>
-
-- 🌱 I’m currently learning **Programming language Python**
-
-- ⚡ Fun fact **I am good girl**
+## 🚀 About Me
+- 🌱 Currently learning **Python, Machine Learning & Data Analytics**
+- 📊 Interested in **Data Analysis, ML Models & Real-World Applications**
+- 🧠 Passionate about **Artificial Intelligence & Problem Solving**
+- 🎯 Career Goal: Get placed in a reputed tech company
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="coding" width="400"src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
