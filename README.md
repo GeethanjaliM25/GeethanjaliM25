@@ -128,6 +128,7 @@ src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gi
 
 ---
 
-✨ *Continuously learning, improving every day, and building a strong foundation in Data Science, Machine Learning, and Analytics.*
+✨ *Driven by curiosity, guided by data, and focused on building scalable, real-world intelligent systems through continuous learning and innovation.*
 
-⭐ **If you like my work, consider starring the repositories!**
+⭐ **If you find my work valuable, feel free to explore and star the repositories!**
+
