@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 I am a **Data Science and Machine Learning enthusiast** with a strong interest in transforming raw data into **meaningful insights and intelligent solutions**.  
-I enjoy working across the **entire data lifecycle** — from **data analysis and visualization** to **machine learning model development and deployment**.
+I enjoy working across the **entire data lifecycle** — from **data analysis and visualization** to **machine learning model development and deployment**..
 
 I am passionate about building **real-world, practical projects** that bridge the gap between **academic concepts and industry applications**, with a long-term goal of contributing to **data-driven decision-making systems and AI-powered products**.
 
